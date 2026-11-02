@@ -6,8 +6,8 @@ Atividade 1 da disciplina **Programação para Dispositivos Móveis I** — Prof
 
 ## Integrantes
 
-- Kaique Henrique
-- Matheus Soldesi
+- Kaique Henrique Silva Pinto
+- Matheus da Cunha Soldesi
 
 ## Funcionalidades
 
